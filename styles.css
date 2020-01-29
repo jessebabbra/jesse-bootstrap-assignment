@@ -1,0 +1,17 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.jumbotron {
+    background-color: whitesmoke;
+    color: palevioletred;
+    font-family: 'Lato', sans-serif;
+}
+
+a {
+    color: white;
+}
+
+.row {
+    padding-bottom: 10px;
+}
